@@ -1,2 +1,2 @@
-FlexiPicker, a flexible android file/media picker
+FlexiPicker, a flexible android file/media picker written in Kotlin
 ===
