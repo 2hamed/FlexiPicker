@@ -1,3 +1,7 @@
 <resources>
 	<string name="app_name">FlexiPicker</string>
+	<string name="activity_gallery_bucket_all_media">All Media</string>
+	<string name="read_storate_permission_rationale">Need permission to read files</string>
+	<string name="grant">Grant</string>
+	<string name="nope">nope</string>
 </resources>
